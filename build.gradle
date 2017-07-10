@@ -2,6 +2,7 @@ group 'de.baba43'
 version '1.12-SNAPSHOT'
 
 apply plugin: 'java'
+apply plugin: 'maven'
 
 sourceCompatibility = 1.8
 
