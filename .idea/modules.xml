@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TextComponentHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/TextComponentHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TextComponentHelper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TextComponentHelper_main.iml" group="TextComponentHelper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TextComponentHelper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TextComponentHelper_test.iml" group="TextComponentHelper" />
+    </modules>
+  </component>
+</project>

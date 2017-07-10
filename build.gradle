@@ -1,0 +1,17 @@
+group 'de.baba43'
+version '1.12-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven {
+        url = "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+}
+
+dependencies {
+    compile group: 'net.md-5', name: 'bungeecord-chat', version: '1.12-SNAPSHOT'
+}
